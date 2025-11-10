@@ -27,7 +27,7 @@ Esta es una API simple construida con Flask que permite gestionar un blog person
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/blog-personal-api.git
+   git clone https://github.com/ITZ-NANO21-MC/API-blog.git
    cd blog-personal-api
    ```
 
