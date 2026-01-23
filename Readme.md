@@ -28,7 +28,7 @@ Esta es una API simple construida con Flask que permite gestionar un blog person
 
    ```bash
    git clone https://github.com/ITZ-NANO21-MC/API-blog.git
-   cd blog-personal-api
+   cd API-blog
    ```
 
 2. Crea un entorno virtual (opcional pero recomendado):
@@ -154,7 +154,7 @@ Esta es una API simple construida con Flask que permite gestionar un blog person
 ## Estructura del Proyecto 📂
 
 ```
-/blog-personal-api
+/API-blog
 │
 ├── app.py                # Punto de entrada de la aplicación
 ├── routes.py             # Definición de las rutas
